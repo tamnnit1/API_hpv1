@@ -1,0 +1,6 @@
+/vendor
+/deploy/postgres
+/.idea
+Homestead.json
+Homestead.yaml
+.env
